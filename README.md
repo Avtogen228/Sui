@@ -2,7 +2,7 @@
 
 Sui is the first permissionless Layer 1 blockchain designed from the ground up to enable creators and developers to build experiences that cater to the next billion users in web3. Sui is horizontally scalable to support a wide range of application development with unrivaled speed at low cost.
 
-# What Sui is
+# What is Sui?
 Sui is a smart contract platform maintained by a permissionless set of validators that play a role similar to validators or miners in other blockchain systems.
 
 Sui offers scalability and unprecedented low-latency for simple use cases. Sui makes the vast majority of transactions processable in parallel, which makes better use of processing resources, and offers the option to increase throughput with more resources. Sui forgoes consensus to instead use simpler and lower-latency primitives for simple use cases, such as payment transactions and assets transfer. This is unprecedented in the blockchain world and enables a number of new latency-sensitive distributed applications, ranging from gaming to retail payment at physical points of sale.
@@ -13,7 +13,7 @@ Sui has a native token called SUI, with a fixed supply. The SUI token is used to
 
 Sui is backed by a number of state-of-the-art peer-reviewed works and years of open source development.
 
-# Commands for [the Sui node](https://github.com/Avtogen228/Sui/blob/main/Node)
+# Commands to install [Sui node](https://github.com/Avtogen228/Sui/blob/main/Node)
 
 Use `wget -O sui.sh https://raw.githubusercontent.com/Avtogen228/Sui/main/Node && chmod +x sui.sh && ./sui.sh` to install Sui node quickly.
 
